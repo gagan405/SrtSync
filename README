@@ -1,0 +1,9 @@
+AUTHOR : Gagan Bihari Mishra
+
+This is yet another ridiculously simple shell script which changes the SubRip subtitle files as per user input. The subtitles can be delayed or advanced. 
+
+Most of the times, mplayer/VLC subtitle delay doesnt work properly. Atleast it never worked for me. Also, even if it works, the next time you play the video, you have to sync it again.
+
+In such cases this comes as a permanent solution!
+
+This takes a bit time depending on the subtitle file size.  
